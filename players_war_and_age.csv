@@ -1,0 +1,590 @@
+Name,Team,2022 WAR,2021 War,2020 War,2019 War,2018 War,Age
+Aaron Judge,NYY,11.4,5.5,1.1,4.3,5.3,30.0
+Shohei Ohtani,LAA,9.5,8.0,-0.1,1.7,3.8,28.0
+Manny Machado,SDP,7.4,4.3,2.6,2.2,7.0,30.0
+Nolan Arenado,STL,7.3,4.1,0.7,6.5,6.2,31.0
+Paul Goldschmidt,STL,7.1,5.0,2.3,3.4,5.1,35.0
+Freddie Freeman,LAD,7.1,4.8,3.2,4.4,4.8,33.0
+Francisco Lindor,NYM,6.8,4.2,1.9,5.8,7.8,29.0
+Mookie Betts,LAD,6.6,3.8,2.8,6.4,10.5,30.0
+Jose Altuve,HOU,6.6,5.3,0.0,4.3,5.8,32.0
+J.T. Realmuto,PHI,6.5,4.5,1.6,5.6,4.8,32.0
+Dansby Swanson,ATL,6.4,3.4,2.3,2.0,1.4,29.0
+Trea Turner,LAD,6.3,6.8,2.7,4.2,4.9,29.0
+Aaron Nola,PHI,6.3,4.7,2.0,3.5,5.0,29.0
+Carlos Rodón,SFG,6.2,4.9,0.1,0.9,0.9,
+José Ramírez,CLE,6.2,6.5,3.2,3.5,8.1,
+Xander Bogaerts,BOS,6.1,4.4,1.6,5.9,4.4,30.0
+Mike Trout,LAA,6.0,2.2,2.5,8.4,9.5,31.0
+Jeff McNeil,NYM,5.9,1.3,1.2,4.8,2.9,30.0
+Sandy Alcantara,MIA,5.7,4.0,0.9,2.1,0.1,27.0
+Kevin Gausman,TOR,5.7,5.0,1.6,1.3,2.4,32.0
+Alex Bregman,HOU,5.5,2.1,1.2,8.1,8.0,28.0
+Brandon Nimmo,NYM,5.4,3.3,1.7,1.4,4.8,29.0
+Max Fried,ATL,5.0,4.6,1.5,3.5,0.4,29.0
+Shane Bieber,CLE,4.9,2.6,3.2,5.4,2.8,27.0
+Rafael Devers,BOS,4.9,4.2,0.7,6.7,1.0,26.0
+Kyle Tucker,HOU,4.7,4.6,1.7,0.5,-0.5,26.0
+Willy Adames,MIL,4.7,3.3,1.3,3.3,1.2,27.0
+Corbin Burnes,MIL,4.6,7.6,2.4,-0.3,0.2,28.0
+Corey Seager,TEX,4.5,3.6,2.1,3.6,0.3,28.0
+Framber Valdez,HOU,4.4,1.8,2.0,0.1,0.0,29.0
+Max Scherzer,NYM,4.4,4.7,1.8,6.6,8.2,38.0
+Carlos Correa,MIN,4.4,6.2,1.2,3.8,3.4,28.0
+Yu Darvish,SDP,4.2,2.9,2.9,2.3,0.2,36.0
+George Springer,TOR,4.2,2.5,1.8,6.3,3.2,33.0
+Marcus Semien,TEX,4.2,6.2,0.2,6.5,2.9,32.0
+Matt Chapman,TOR,4.1,4.1,1.1,5.7,6.3,29.0
+Zack Wheeler,PHI,4.1,7.3,1.9,5.2,4.5,32.0
+Eugenio Suárez,SEA,4.1,-0.1,1.1,4.2,4.3,
+Christian Walker,ARI,4.1,0.4,0.8,3.2,-0.2,31.0
+Byron Buxton,MIN,4.0,4.1,1.2,3.0,-0.5,29.0
+José Quintana,- - -,4.0,0.5,0.2,3.2,1.2,
+Tyler Anderson,LAD,4.0,2.1,0.8,-0.3,1.7,33.0
+Will Smith,LAD,3.9,4.6,1.3,1.6,2.0,27.0
+Will Smith,LAD,3.9,4.6,1.3,1.6,2.0,33.0
+Will Smith,LAD,3.9,4.6,1.3,1.4,2.0,27.0
+Will Smith,LAD,3.9,4.6,1.3,1.4,2.0,33.0
+Will Smith,LAD,3.9,4.6,-0.6,1.6,2.0,27.0
+Will Smith,LAD,3.9,4.6,-0.6,1.6,2.0,33.0
+Will Smith,LAD,3.9,4.6,-0.6,1.4,2.0,27.0
+Will Smith,LAD,3.9,4.6,-0.6,1.4,2.0,33.0
+Will Smith,LAD,3.9,0.4,1.3,1.6,2.0,27.0
+Will Smith,LAD,3.9,0.4,1.3,1.6,2.0,33.0
+Will Smith,LAD,3.9,0.4,1.3,1.4,2.0,27.0
+Will Smith,LAD,3.9,0.4,1.3,1.4,2.0,33.0
+Will Smith,LAD,3.9,0.4,-0.6,1.6,2.0,27.0
+Will Smith,LAD,3.9,0.4,-0.6,1.6,2.0,33.0
+Will Smith,LAD,3.9,0.4,-0.6,1.4,2.0,27.0
+Will Smith,LAD,3.9,0.4,-0.6,1.4,2.0,33.0
+Travis d'Arnaud,ATL,3.9,0.6,1.6,1.6,0.0,
+José Abreu,CHW,3.9,2.7,2.9,1.6,1.7,
+Taylor Ward,LAA,3.8,0.7,0.2,-0.4,-0.4,29.0
+Juan Soto,- - -,3.8,7.0,2.6,5.7,3.7,24.0
+Martín Pérez,TEX,3.8,0.6,0.4,1.8,-0.1,
+Clayton Kershaw,LAD,3.8,3.6,1.4,3.4,4.1,35.0
+Yandy Díaz,TBR,3.8,1.9,0.5,1.6,0.2,
+Jose Trevino,NYY,3.7,0.6,0.3,-0.2,-0.1,30.0
+Luis Castillo,- - -,3.7,3.9,2.4,3.8,2.0,30.0
+Alex Cobb,SFG,3.7,2.5,0.6,-0.6,1.5,35.0
+Blake Snell,SDP,3.7,2.1,0.6,2.7,4.8,30.0
+Nestor Cortes,NYY,3.6,1.6,-0.6,-0.3,-0.3,
+Elvis Andrus,- - -,3.5,1.6,-0.3,1.9,1.2,34.0
+Brandon Woodruff,MIL,3.5,4.7,2.1,3.8,0.7,30.0
+Ian Happ,CHC,3.5,1.2,2.0,1.3,0.8,28.0
+Joe Musgrove,SDP,3.5,2.8,1.0,3.5,2.3,30.0
+Cedric Mullins,BAL,3.4,6.0,0.8,-0.6,0.3,28.0
+Willson Contreras,CHC,3.3,2.3,1.6,2.6,0.7,30.0
+Gerrit Cole,NYY,3.3,5.2,1.4,7.4,5.8,32.0
+Julio Urías,LAD,3.2,5.4,1.3,1.7,0.1,
+Ross Stripling,TOR,3.1,0.2,-0.2,1.9,2.0,33.0
+Matt Olson,ATL,3.1,5.1,0.6,4.1,3.1,28.0
+Ryan McMahon,COL,3.1,2.5,0.2,0.8,0.0,28.0
+Corey Kluber,TBR,3.0,1.4,0.0,0.6,5.4,36.0
+Jeffrey Springs,TBR,3.0,0.2,-0.1,0.1,0.2,30.0
+Edwin Díaz,NYM,3.0,2.0,0.9,0.0,3.5,
+Starling Marte,NYM,3.0,5.5,1.2,3.6,4.1,34.0
+Brandon Drury,- - -,3.0,0.2,-0.5,-0.2,-0.6,30.0
+DJ LeMahieu,NYY,3.0,2.0,2.4,5.8,2.2,34.0
+Kyle Wright,ATL,2.9,-0.2,-0.2,-0.3,-0.2,27.0
+Pablo López,MIA,2.8,2.2,1.6,1.7,0.5,
+Adam Wainwright,STL,2.8,3.9,1.0,2.3,0.4,41.0
+Andrew Benintendi,- - -,2.8,1.7,-0.4,1.8,4.9,28.0
+Mark Canha,NYM,2.8,3.1,1.6,3.9,1.6,34.0
+Gleyber Torres,NYY,2.7,1.2,0.4,3.6,2.4,26.0
+Jordan Montgomery,- - -,2.7,3.2,0.9,0.1,0.4,30.0
+Chris Bassitt,NYM,2.7,3.3,1.3,2.0,0.6,34.0
+Kyle Schwarber,PHI,2.6,2.8,0.3,2.0,2.5,30.0
+Danny Jansen,TOR,2.6,1.4,0.3,1.4,0.8,27.0
+Kyle Freeland,COL,2.6,1.2,1.0,0.0,3.8,29.0
+Hunter Renfroe,MIL,2.5,2.0,-0.1,2.0,1.6,31.0
+Taijuan Walker,NYM,2.5,1.3,0.6,0.0,0.1,30.0
+Anthony Santander,BAL,2.5,0.4,0.9,0.6,-0.3,28.0
+Jurickson Profar,SDP,2.5,-0.7,1.3,0.9,1.9,30.0
+Kolten Wong,MIL,2.5,2.5,1.2,3.6,2.2,32.0
+Teoscar Hernández,TOR,2.4,4.3,1.5,1.3,0.9,
+Anthony Rizzo,NYY,2.4,2.1,0.9,3.8,3.2,33.0
+Johnny Cueto,CHW,2.4,1.5,0.5,-0.1,0.1,37.0
+Justin Turner,LAD,2.4,4.2,1.4,4.1,4.3,38.0
+Amed Rosario,CLE,2.4,2.4,0.1,2.0,0.4,27.0
+Max Muncy,LAD,2.4,4.8,0.2,4.8,4.6,32.0
+Max Muncy,LAD,2.4,4.8,0.2,4.8,4.6,20.0
+Carlos Carrasco,NYM,2.4,-0.1,1.5,0.9,5.2,36.0
+Trevor Story,BOS,2.4,2.8,2.1,6.3,4.6,30.0
+Sonny Gray,MIN,2.4,2.4,1.7,4.6,1.5,33.0
+Gio Urshela,MIN,2.4,0.7,1.1,2.8,-0.2,31.0
+Bryce Harper,PHI,2.4,6.6,1.9,4.0,3.1,30.0
+Jon Berti,MIA,2.3,0.4,0.7,1.7,-0.1,33.0
+Eduardo Escobar,NYM,2.3,2.6,-0.5,2.9,3.5,34.0
+Ranger Suárez,PHI,2.3,3.2,-0.1,0.4,0.0,
+Matt Carpenter,NYY,2.3,-0.3,0.5,1.7,4.6,37.0
+Luis Urías,MIL,2.3,2.1,0.2,-0.2,0.1,
+Christian Yelich,MIL,2.3,1.6,0.7,7.2,7.7,31.0
+Rhys Hoskins,PHI,2.2,2.0,0.7,2.0,2.4,30.0
+Evan Phillips,LAD,2.2,0.1,0.2,0.3,-0.5,28.0
+Jace Peterson,MIL,2.2,1.0,0.3,0.0,-0.1,32.0
+Ronald Acuña Jr.,ATL,2.2,4.3,2.4,5.4,4.1,
+Jacob deGrom,NYM,2.2,5.4,2.6,7.6,9.4,
+Austin Slater,SFG,2.1,1.4,1.1,0.5,-0.3,30.0
+Tyler Mahle,- - -,2.1,3.5,1.1,1.4,0.4,28.0
+A.J. Minter,ATL,2.1,1.3,0.4,-0.1,1.4,29.0
+Joc Pederson,SFG,2.1,0.4,-0.2,2.7,2.1,30.0
+Reynaldo López,CHW,2.0,0.7,-0.4,2.4,2.3,
+Brandon Crawford,SFG,2.0,6.3,1.6,0.4,2.5,36.0
+Tim Anderson,CHW,2.0,4.7,2.4,4.5,2.5,29.0
+J.P. Crawford,SEA,2.0,3.3,1.3,1.1,0.2,28.0
+Frankie Montas,- - -,2.0,3.9,0.4,3.0,0.8,30.0
+Max Kepler,MIN,2.0,2.3,1.1,3.8,2.5,30.0
+Javier Báez,DET,2.0,4.0,0.5,5.8,6.1,
+Myles Straw,CLE,2.0,3.2,-0.4,1.0,0.2,28.0
+Josh Bell,- - -,2.0,2.0,-0.3,2.9,1.3,30.0
+Freddy Peralta,MIL,2.0,3.8,0.8,0.9,0.9,26.0
+Chris Taylor,LAD,1.9,3.0,1.6,1.9,3.7,32.0
+Lance Lynn,CHW,1.9,4.2,1.4,6.7,2.7,35.0
+Zack Greinke,KCR,1.9,1.3,2.2,6.3,3.4,39.0
+Jorge Polanco,MIN,1.8,4.2,0.6,3.3,1.3,29.0
+Kyle Gibson,PHI,1.8,3.1,0.2,2.6,2.7,35.0
+Jon Gray,TEX,1.8,2.0,0.5,2.5,2.2,31.0
+Lucas Giolito,CHW,1.8,4.1,2.0,5.2,0.0,28.0
+Rich Hill,BOS,1.8,1.6,0.7,1.0,1.6,43.0
+Robbie Ray,SEA,1.8,3.9,-0.4,1.8,0.6,31.0
+Jean Segura,PHI,1.7,3.4,1.1,1.7,3.9,33.0
+Alex Wood,SFG,1.7,2.3,0.0,-0.1,2.1,32.0
+Cody Bellinger,LAD,1.7,-1.0,1.4,7.7,3.5,27.0
+David Peralta,- - -,1.7,1.7,1.0,1.4,3.4,35.0
+Albert Pujols,STL,1.7,-0.2,-0.1,-0.6,-0.5,
+Kyle Higashioka,NYY,1.7,0.6,0.5,0.4,0.1,32.0
+Héctor Neris,HOU,1.6,0.5,0.7,1.0,0.2,
+José Alvarado,PHI,1.6,-0.3,-0.1,0.1,2.1,
+Reese McGuire,- - -,1.6,1.3,-0.7,1.2,0.4,28.0
+Christian Vázquez,- - -,1.6,0.4,1.4,3.5,0.3,
+Josh Donaldson,NYY,1.6,3.0,0.8,5.2,1.1,37.0
+Chris Martin,- - -,1.6,0.5,0.5,1.1,0.7,36.0
+Liam Hendriks,CHW,1.6,2.7,1.4,3.9,0.1,34.0
+Luis García,SDP,1.6,0.7,0.0,-0.5,0.6,
+Luis García,SDP,1.6,0.7,-0.5,-0.5,0.6,
+Luis García,SDP,1.6,-0.6,0.0,-0.5,0.6,
+Luis García,SDP,1.6,-0.6,-0.5,-0.5,0.6,
+Raisel Iglesias,- - -,1.6,2.0,1.1,1.2,0.3,33.0
+Michael Wacha,BOS,1.5,1.1,0.0,-0.2,0.7,31.0
+Manuel Margot,TBR,1.5,2.5,0.5,1.6,0.8,28.0
+Daniel Vogelbach,- - -,1.5,-0.1,0.0,1.2,0.0,30.0
+Charlie Morton,ATL,1.5,4.4,0.9,6.0,2.8,39.0
+Michael A. Taylor,KCR,1.5,2.0,-0.1,0.3,1.1,32.0
+Jonathan Schoop,DET,1.5,2.1,1.5,2.1,1.2,31.0
+Tony Kemp,OAK,1.5,3.1,0.6,0.4,1.0,31.0
+Harrison Bader,- - -,1.5,3.3,1.1,1.7,4.1,28.0
+Nick Pivetta,BOS,1.5,2.2,0.1,-0.1,2.8,30.0
+Aaron Hicks,NYY,1.5,0.0,1.2,0.6,4.3,33.0
+Jordan Lyles,BAL,1.4,0.1,-0.2,1.4,0.6,32.0
+Antonio Senzatela,COL,1.4,3.1,1.1,0.1,0.9,28.0
+Whit Merrifield,- - -,1.4,3.0,1.5,3.1,4.9,34.0
+Joe Jiménez,DET,1.4,-0.2,-0.6,0.3,1.4,
+Wilmer Flores,SFG,1.4,1.5,1.0,1.5,0.7,31.0
+Ketel Marte,ARI,1.4,2.3,0.5,6.2,2.8,29.0
+Kyle Farmer,CIN,1.4,1.9,0.2,0.0,0.1,32.0
+Germán Márquez,COL,1.4,4.1,2.3,3.7,4.8,
+Garrett Cooper,MIA,1.4,0.9,0.2,1.6,0.1,32.0
+Ryan Pressly,HOU,1.4,2.4,0.7,1.6,1.8,34.0
+Zach Eflin,PHI,1.4,1.8,1.5,1.5,2.1,28.0
+Ildemaro Vargas,- - -,1.4,-0.9,-0.3,0.3,0.0,31.0
+Austin Barnes,LAD,1.4,0.7,0.8,0.6,1.2,33.0
+Luis Guillorme,NYM,1.3,0.5,0.8,0.2,-0.2,28.0
+Isiah Kiner-Falefa,NYY,1.3,1.7,0.9,-0.7,0.5,28.0
+Giovanny Gallegos,STL,1.3,2.2,0.6,1.5,0.0,31.0
+Josh Harrison,CHW,1.3,2.3,0.2,-0.9,0.2,35.0
+Eric Haase,DET,1.3,1.2,-0.1,-0.1,-0.3,30.0
+Jakob Junis,SFG,1.3,0.5,-0.2,1.5,1.5,30.0
+Kevin Newman,PIT,1.3,-0.1,-0.4,2.1,-0.9,29.0
+Gary Sanchez,MIN,1.3,1.5,-0.1,2.4,1.8,
+Anthony Bass,- - -,1.3,-0.4,0.4,0.6,0.2,35.0
+Tyler O'Neill,STL,1.3,5.6,0.4,0.3,1.3,27.0
+Ji-Man Choi,TBR,1.3,1.0,0.1,1.9,1.1,31.0
+Jake Odorizzi,- - -,1.3,1.1,0.0,4.3,2.5,32.0
+C.J. Cron,COL,1.3,2.2,0.4,1.0,2.2,33.0
+Jason Adam,TBR,1.3,0.1,0.1,0.3,-0.3,31.0
+Evan Longoria,SFG,1.3,1.7,0.7,2.1,0.5,37.0
+Joey Wendle,MIA,1.2,2.9,1.2,0.6,3.9,32.0
+Michael Brantley,HOU,1.2,2.3,1.1,3.9,3.7,35.0
+Miguel Rojas,MIA,1.2,2.1,1.5,1.3,1.2,34.0
+Alex Verdugo,BOS,1.2,2.0,1.9,2.1,0.2,26.0
+Giancarlo Stanton,NYY,1.2,2.4,0.4,0.4,4.2,33.0
+Omar Narváez,MIL,1.1,2.8,0.5,1.9,1.1,
+Ozzie Albies,ATL,1.1,3.9,0.8,4.2,3.7,26.0
+Victor Caratini,MIL,1.1,-0.6,0.3,1.2,-0.3,29.0
+Sean Manaea,SDP,1.1,3.4,1.1,0.8,1.8,31.0
+Andrew Heaney,LAD,1.1,1.2,1.5,1.3,2.9,31.0
+Clay Holmes,NYY,1.1,1.1,0.0,-0.2,-0.2,29.0
+José Berríos,TOR,1.1,4.0,1.1,4.4,3.0,
+Adam Frazier,SEA,1.1,3.6,0.8,2.7,1.9,31.0
+Kevin Kiermaier,TBR,1.1,2.5,1.5,2.5,1.5,32.0
+Adam Ottavino,NYM,1.1,0.6,0.2,1.3,1.9,37.0
+Kenley Jansen,ATL,1.1,1.8,0.6,1.2,0.3,35.0
+Patrick Wisdom,CHC,1.1,2.3,0.0,-0.3,0.3,31.0
+Eric Lauer,MIL,1.1,2.0,-0.2,2.2,0.7,27.0
+Carlos Santana,- - -,1.0,-0.5,0.7,4.8,2.5,36.0
+Michael Lorenzen,LAA,1.0,0.2,0.6,1.3,0.9,31.0
+J.D. Martinez,BOS,1.0,2.8,-1.0,3.5,5.7,35.0
+Adrian Houser,MIL,1.0,1.5,0.4,1.5,0.1,30.0
+Lourdes Gurriel Jr.,TOR,1.0,1.8,1.0,1.8,0.6,29.0
+Dakota Hudson,STL,1.0,0.3,0.4,0.6,0.1,
+Buck Farmer,CIN,1.0,-0.5,0.1,0.9,0.1,32.0
+José Iglesias,COL,1.0,1.7,1.7,1.9,1.5,
+Taylor Rogers,- - -,1.0,1.5,0.5,2.1,1.8,32.0
+Nathan Eovaldi,BOS,1.0,5.7,0.9,-0.3,2.2,33.0
+Austin Voth,- - -,1.0,0.0,-0.2,0.9,0.0,30.0
+Cionel Pérez,BAL,1.0,-0.3,0.1,-0.2,-0.2,
+Walker Buehler,LAD,1.0,5.5,0.6,5.0,3.3,28.0
+Wandy Peralta,NYY,1.0,0.2,0.1,-0.7,0.0,31.0
+Duane Underwood Jr.,PIT,0.9,0.1,0.0,0.0,-0.1,28.0
+Tomás Nido,NYM,0.9,0.9,0.3,-0.5,-0.2,
+J.D. Davis,- - -,0.9,1.4,0.3,2.5,-0.6,29.0
+Ryne Stanek,HOU,0.9,0.4,-0.2,0.7,1.2,31.0
+Yoán Moncada,CHW,0.9,4.0,1.1,5.5,1.3,
+Tyler Kinley,COL,0.9,0.2,0.2,-0.2,0.0,32.0
+Adam Duvall,ATL,0.9,2.7,0.8,0.9,0.6,34.0
+Andrew Chafin,DET,0.9,1.4,0.0,1.0,0.9,32.0
+Ramón Laureano,OAK,0.9,1.9,1.0,4.1,2.1,
+Brandon Lowe,TBR,0.9,4.9,2.3,2.3,0.8,28.0
+Adam Cimber,TOR,0.9,1.1,0.1,0.2,0.7,32.0
+Yimi Garcia,TOR,0.9,0.4,0.6,-0.3,-0.4,32.0
+Scott Barlow,KCR,0.9,2.1,0.4,1.1,0.2,30.0
+Craig Kimbrel,LAD,0.9,2.2,0.1,-1.1,1.3,34.0
+Patrick Corbin,WSN,0.8,0.3,1.2,4.5,6.1,33.0
+Wil Myers,SDP,0.8,2.0,2.0,0.7,1.6,32.0
+Rowdy Tellez,MIL,0.8,-0.3,0.3,-0.3,0.4,28.0
+Anthony Rendon,LAA,0.8,0.2,2.5,6.8,5.9,32.0
+Jorge López,- - -,0.8,0.8,0.3,-0.3,0.3,
+Paul Blackburn,OAK,0.8,-0.1,0.0,-0.2,0.5,29.0
+Daniel Hudson,LAD,0.8,1.1,-0.4,0.9,-0.1,36.0
+José Ureña,- - -,0.8,0.3,-0.1,0.4,1.3,
+Josh Hader,- - -,0.8,2.6,0.3,2.2,2.7,28.0
+Jesse Chavez,- - -,0.7,0.9,-0.6,1.0,1.3,39.0
+Brad Boxberger,MIL,0.7,0.8,0.0,0.0,-0.4,34.0
+Chris Stratton,- - -,0.7,0.8,0.6,0.2,0.8,32.0
+Hoby Milner,MIL,0.7,-0.2,-0.4,0.1,-0.4,32.0
+Brad Keller,KCR,0.7,1.1,1.3,2.3,2.7,27.0
+Dylan Floro,MIA,0.7,1.5,0.6,0.6,1.0,32.0
+Dylan Bundy,MIN,0.7,0.1,2.1,2.6,1.0,
+David Fletcher,LAA,0.7,0.8,1.3,3.1,1.4,28.0
+Dennis Santana,TEX,0.7,0.1,-0.2,-0.1,0.1,26.0
+Aristides Aquino,CIN,0.7,-0.1,0.0,1.4,-0.1,
+Orlando Arcia,ATL,0.7,-0.4,0.6,-0.9,0.1,28.0
+Steven Matz,STL,0.7,2.7,-0.7,2.0,1.1,31.0
+Tommy Pham,- - -,0.6,1.1,0.0,3.1,3.7,35.0
+Trevor Williams,NYM,0.6,1.3,-0.3,1.0,2.7,30.0
+Joey Gallo,- - -,0.6,4.2,1.0,3.2,3.1,29.0
+Yan Gomes,CHC,0.6,1.6,0.3,0.8,2.5,35.0
+Kris Bryant,COL,0.6,3.1,0.2,4.7,2.7,31.0
+Aledmys Díaz,HOU,0.6,1.2,0.0,1.3,1.5,
+Roberto Pérez,PIT,0.6,-0.2,0.2,3.2,0.0,
+Jorge Soler,MIA,0.5,-0.3,0.5,3.7,0.7,31.0
+AJ Pollock,CHW,0.5,3.1,0.9,0.3,2.3,35.0
+Jonathan Davis,MIL,0.5,-0.5,0.1,-0.1,-0.1,30.0
+Amir Garrett,KCR,0.5,0.0,0.2,0.5,0.5,30.0
+Zach Davies,ARI,0.5,0.0,1.4,1.6,0.4,30.0
+Wade Miley,CHC,0.5,3.3,0.1,2.0,1.4,36.0
+Enrique Hernández,BOS,0.5,3.9,0.1,0.7,3.0,
+Ryan Brasier,BOS,0.5,-0.1,0.5,0.3,0.7,35.0
+Martín Maldonado,HOU,0.5,0.1,0.6,0.7,1.9,
+Joe Kelly,CHW,0.5,0.7,0.1,0.4,0.6,34.0
+Yency Almonte,LAD,0.5,-0.5,0.5,-0.2,0.2,28.0
+David Bote,CHC,0.5,-0.6,0.2,1.9,1.0,29.0
+Jorge Alfaro,SDP,0.5,0.7,-0.3,1.3,3.2,29.0
+Paul Sewald,SEA,0.5,1.4,-0.1,0.2,0.0,32.0
+Tim Hill,SDP,0.5,-0.2,0.0,0.5,0.5,33.0
+Madison Bumgarner,ARI,0.5,1.8,-0.6,3.7,1.6,33.0
+Jake Cave,MIN,0.5,-0.4,0.6,1.0,1.1,30.0
+Jake Marisnick,PIT,0.5,0.3,0.3,1.0,1.2,31.0
+Shawn Armstrong,- - -,0.5,-0.3,0.3,0.6,0.2,32.0
+César Hernández,WSN,0.5,1.6,2.1,1.5,2.0,
+Richard Bleier,MIA,0.5,1.0,0.3,0.6,0.8,35.0
+Brian Anderson,MIA,0.5,1.1,1.7,2.7,2.9,29.0
+Luke Weaver,- - -,0.5,0.6,0.5,1.8,1.4,29.0
+Corey Dickerson,STL,0.4,0.9,0.2,1.3,2.9,33.0
+Curt Casali,- - -,0.4,0.5,0.7,1.0,0.5,34.0
+Vince Velasquez,CHW,0.4,-0.3,0.6,0.7,2.9,30.0
+Jonathan Loáisiga,NYY,0.4,2.4,0.1,0.1,0.4,
+Erick Fedde,WSN,0.4,0.8,-0.3,0.1,0.2,
+Johan Camargo,PHI,0.4,-0.3,0.1,-0.5,3.0,29.0
+Jesse Winker,SEA,0.4,2.9,1.4,0.5,1.0,29.0
+Rougned Odor,BAL,0.4,1.4,-0.1,1.0,2.6,29.0
+Tanner Scott,MIA,0.4,0.4,0.4,0.1,0.7,28.0
+Carson Kelly,ARI,0.4,1.8,0.3,1.8,-0.5,28.0
+James McCann,NYM,0.4,0.5,1.5,2.2,-0.7,32.0
+Aaron Loup,LAA,0.4,1.6,0.2,0.1,0.3,35.0
+Albert Almora Jr.,CIN,0.4,-0.6,-0.2,-0.6,1.7,
+Erasmo Ramírez,WSN,0.4,0.0,0.1,-0.1,-0.6,
+Nick Ahmed,ARI,0.4,1.4,1.6,3.3,3.7,33.0
+Kyle Hendricks,CHC,0.4,1.1,1.9,4.2,3.1,33.0
+Diego Castillo,SEA,0.3,0.7,0.0,1.0,1.1,29.0
+Victor Robles,WSN,0.3,-0.2,-0.1,3.5,0.6,25.0
+John Means,BAL,0.3,2.5,0.3,3.3,0.0,29.0
+Tyler Naquin,- - -,0.3,1.1,-0.6,1.2,-0.4,31.0
+Chad Green,NYY,0.3,1.6,0.2,1.6,1.7,31.0
+Mitch Garver,TEX,0.3,2.2,-0.1,3.9,0.4,32.0
+Aaron Bummer,CHW,0.3,1.2,0.3,1.3,0.8,29.0
+Matt Strahm,BOS,0.3,0.1,0.0,1.5,0.8,31.0
+Andrew McCutchen,MIL,0.3,1.5,-0.2,1.3,1.9,36.0
+Scott Alexander,SFG,0.3,0.0,-0.2,-0.1,0.3,33.0
+Andrew Velazquez,LAA,0.3,-0.2,-0.2,-0.2,0.2,28.0
+Eric Hosmer,- - -,0.3,0.6,0.8,-0.9,-0.5,33.0
+Roman Quinn,- - -,0.3,0.3,0.2,0.1,0.4,29.0
+Brad Hand,PHI,0.3,-0.1,1.1,1.5,1.2,33.0
+Sean Doolittle,WSN,0.3,0.4,-0.3,0.7,1.9,36.0
+Raimel Tapia,TOR,0.3,0.7,0.7,-0.2,0.0,29.0
+Tanner Rainey,WSN,0.3,-0.3,0.3,0.2,-0.5,30.0
+Garrett Richards,TEX,0.3,1.1,0.7,-0.1,1.0,
+Austin Davis,- - -,0.2,0.1,0.0,-0.3,0.2,30.0
+Lou Trivino,- - -,0.2,0.6,0.1,0.3,0.6,31.0
+Robert Stephenson,- - -,0.2,0.5,-0.6,0.9,-0.1,30.0
+Archie Bradley,LAA,0.2,0.2,0.6,1.1,0.3,
+Greg Allen,PIT,0.2,0.5,0.1,0.6,0.4,30.0
+Jeff Hoffman,CIN,0.2,0.2,0.1,-0.4,0.0,30.0
+Christian Arroyo,BOS,0.2,0.9,-0.1,0.1,0.2,27.0
+Justin Wilson,CIN,0.2,-0.2,0.5,0.3,0.6,35.0
+Trevor Richards,TOR,0.2,0.3,0.1,1.5,1.1,29.0
+Francisco Mejía,TBR,0.2,1.4,-0.3,0.6,-0.1,
+Seth Lugo,NYM,0.2,0.4,0.4,2.3,1.6,33.0
+Luke Voit,- - -,0.2,0.3,1.5,1.5,1.6,32.0
+Mychal Givens,- - -,0.2,0.2,-0.1,0.6,1.8,32.0
+Matt Wisler,TBR,0.2,1.1,0.6,0.4,0.0,30.0
+Jordan Luplow,ARI,0.2,0.4,0.2,2.6,0.2,
+Nomar Mazara,SDP,0.2,-0.2,0.1,0.7,0.8,27.0
+Carl Edwards Jr.,WSN,0.1,-0.2,0.2,-0.1,1.1,31.0
+Kyle Crick,CHW,0.1,0.0,0.1,-0.7,1.0,30.0
+Tyler Glasnow,TBR,0.1,2.5,1.1,2.3,0.8,29.0
+Mark Melancon,ARI,0.1,1.1,0.3,1.3,0.4,37.0
+Charlie Blackmon,COL,0.1,0.4,0.4,1.7,2.2,36.0
+Ryan Tepera,LAA,0.1,1.6,0.3,-0.2,0.3,35.0
+James Norwood,PHI,0.1,0.1,0.0,0.0,0.1,29.0
+Matthew Boyd,SEA,0.1,1.5,-0.1,3.2,2.2,32.0
+Matt Barnes,BOS,0.1,1.3,-0.1,1.3,1.2,32.0
+Steven Brault,CHC,0.1,0.3,0.8,1.8,-0.2,
+Paul DeJong,STL,0.1,1.4,0.3,3.7,1.7,29.0
+Hyun Jin Ryu,TOR,0.1,2.4,1.9,5.3,2.3,36.0
+Trevor May,NYM,0.1,0.5,0.4,0.9,0.5,33.0
+Nick Wittgren,STL,0.1,-0.3,0.1,0.4,0.4,31.0
+Jaime Barría,LAA,0.1,0.5,0.6,-0.5,1.4,
+Luis Castillo,DET,0.1,3.9,2.4,3.8,2.0,30.0
+Austin Dean,SFG,0.1,0.2,0.0,-0.7,-0.1,
+Pedro Severino,MIL,0.1,-0.1,0.2,0.5,-0.7,29.0
+Austin Brice,PIT,0.1,-0.1,0.0,-0.1,-0.5,30.0
+Miguel Castro,NYY,0.1,0.1,0.3,0.5,-0.2,28.0
+Dustin Garneau,DET,0.1,0.5,0.0,0.6,0.1,
+Lewis Brinson,SFG,0.1,0.0,-0.4,-1.7,-1.5,
+Chase Anderson,CIN,0.1,-0.5,-0.1,1.1,0.0,35.0
+Marco Gonzales,SEA,0.1,0.5,2.0,3.7,3.5,31.0
+Rowan Wick,CHC,0.0,0.4,0.5,0.8,0.1,30.0
+Marwin Gonzalez,NYY,0.0,-0.5,0.5,1.6,2.0,
+Touki Toussaint,LAA,0.0,-0.3,-0.4,-0.3,0.4,
+Darren O'Day,ATL,0.0,0.0,0.3,0.1,0.4,
+Colin Moran,CIN,0.0,-0.3,0.6,0.3,0.6,30.0
+Luis García,WSN,0.0,0.7,0.0,-0.5,0.6,
+Luis García,WSN,0.0,0.7,-0.5,-0.5,0.6,
+Luis García,WSN,0.0,-0.6,0.0,-0.5,0.6,
+Luis García,WSN,0.0,-0.6,-0.5,-0.5,0.6,
+Cam Gallagher,KCR,0.0,0.5,0.5,0.3,0.1,30.0
+Adalberto Mondesi,KCR,0.0,0.9,1.4,2.5,2.5,27.0
+Max Stassi,LAA,0.0,2.9,0.7,-0.3,2.8,32.0
+Brandon Belt,SFG,0.0,3.4,2.0,0.6,1.8,34.0
+Yadier Molina,STL,0.0,1.0,0.5,1.2,2.4,
+Grayson Greiner,ARI,0.0,0.2,-0.2,-0.9,0.0,30.0
+Ben Gamel,PIT,0.0,0.2,-0.4,0.6,0.8,30.0
+Hunter Strickland,CIN,0.0,0.3,0.1,-0.4,-0.1,34.0
+Ryan Yarbrough,TBR,0.0,1.2,1.0,2.6,0.8,31.0
+JT Riddle,CIN,0.0,0.1,-1.0,-0.9,1.2,
+Anthony Banda,- - -,0.0,-0.1,-0.2,0.1,0.3,29.0
+Blake Treinen,LAD,0.0,1.8,0.5,-0.3,3.6,34.0
+Stephen Strasburg,WSN,0.0,0.1,0.0,5.8,2.4,34.0
+Anthony DeSclafani,SFG,0.0,2.8,-0.1,2.3,0.9,32.0
+Ryan Weber,NYY,0.0,-0.3,0.0,0.3,0.0,
+Alex Claudio,NYM,0.0,-0.2,0.1,-0.2,1.0,31.0
+Luis Cessa,CIN,0.0,0.9,0.2,0.0,0.4,30.0
+Dominic Leone,SFG,0.0,0.9,-0.1,-0.3,0.2,31.0
+Scott Kingery,PHI,0.0,-0.3,-0.9,2.2,-0.2,28.0
+Jack Flaherty,STL,0.0,1.2,0.6,4.9,2.4,27.0
+Tim Locastro,NYY,0.0,-0.6,0.8,1.0,0.1,30.0
+Robert Gsellman,CHC,0.0,0.1,-0.4,0.4,0.4,
+Chris Devenski,- - -,0.0,-0.2,0.0,0.3,-0.1,
+Austin Adams,SDP,0.0,0.3,0.0,0.7,-0.1,31.0
+Austin Adams,SDP,0.0,0.3,0.0,-0.2,-0.1,31.0
+Pedro Báez,HOU,0.0,0.0,0.1,1.4,0.7,
+Mike Zunino,TBR,0.0,4.5,0.0,0.4,2.1,32.0
+Tommy Hunter,NYM,0.0,0.2,0.5,0.2,0.7,36.0
+Kevin Pillar,LAD,0.0,0.8,1.0,0.4,1.7,34.0
+Lucas Sims,CIN,0.0,1.3,0.4,0.4,-0.3,28.0
+Luke Farrell,- - -,0.0,-0.1,0.0,0.0,-0.3,
+Erik González,MIA,-0.1,-0.7,0.2,-0.1,-0.2,
+Shane Greene,- - -,-0.1,-0.4,0.3,0.9,0.0,
+Michael Feliz,BOS,-0.1,0.0,-0.1,0.0,0.2,
+Paul Fry,- - -,-0.1,0.6,0.3,0.3,0.7,
+DJ Stewart,BAL,-0.1,0.3,0.7,-0.5,0.6,29.0
+Alex Colomé,COL,-0.1,0.1,0.6,0.7,1.0,
+Abraham Almonte,BOS,-0.1,0.0,-0.2,0.6,-0.9,33.0
+Justus Sheffield,SEA,-0.1,-0.3,1.6,0.3,-0.1,26.0
+Phil Maton,HOU,-0.1,0.7,0.7,-0.1,0.6,30.0
+Jeimer Candelario,DET,-0.1,3.9,1.9,0.2,2.2,29.0
+Ender Inciarte,NYM,-0.1,0.0,-0.5,0.9,3.4,
+Sean Reid-Foley,NYM,-0.1,0.2,0.1,-0.1,0.1,
+Clint Frazier,CHC,-0.1,-1.2,1.3,-0.2,-0.2,28.0
+Brett Phillips,- - -,-0.1,2.3,0.3,0.3,0.3,28.0
+Dillon Peters,PIT,-0.1,0.5,-0.1,-0.4,-0.1,
+Tony Wolters,LAD,-0.1,-0.2,-0.6,-0.5,0.9,30.0
+Dominic Smith,NYM,-0.1,-1.0,1.4,0.7,-0.5,27.0
+Yoan López,NYM,-0.1,-0.2,-0.2,-0.3,0.0,
+Jarlín García,SFG,-0.1,0.4,0.3,0.5,-1.4,
+Ross Detwiler,CIN,-0.1,-0.2,0.2,-0.6,-0.1,
+Chad Wallach,LAA,-0.1,-0.3,0.1,0.3,0.3,31.0
+Adam Kolarek,OAK,-0.1,-0.2,0.4,0.1,0.9,34.0
+Billy Hamilton,- - -,-0.1,0.2,0.1,-0.4,1.9,32.0
+Bryse Wilson,PIT,-0.1,-0.1,0.2,-0.1,0.1,25.0
+Emilio Pagán,MIN,-0.1,-0.4,0.0,1.5,-0.2,
+Yairo Munoz,PHI,-0.1,-0.3,0.2,-0.1,-0.2,
+Manny Piña,ATL,-0.1,1.5,0.6,1.1,1.2,
+Oliver Pérez,ARI,-0.1,0.1,0.4,0.6,1.0,
+Chad Pinder,OAK,-0.1,0.1,0.1,0.2,2.3,30.0
+Jackie Bradley Jr.,- - -,-0.1,-1.6,1.7,1.9,3.4,32.0
+José Ruiz,CHW,-0.1,0.5,0.0,0.1,0.0,
+Jake McGee,- - -,-0.1,1.1,0.7,-0.3,-0.3,
+Anthony Alford,PIT,-0.1,0.3,-0.1,0.0,-0.1,
+Tyler Clippard,WSN,-0.1,-0.1,0.8,0.7,0.5,
+Travis Jankowski,- - -,-0.1,0.4,-0.2,-0.2,1.3,31.0
+Will Smith,- - -,-0.1,4.6,1.3,1.6,2.0,27.0
+Will Smith,- - -,-0.1,4.6,1.3,1.6,2.0,33.0
+Will Smith,- - -,-0.1,4.6,1.3,1.4,2.0,27.0
+Will Smith,- - -,-0.1,4.6,1.3,1.4,2.0,33.0
+Will Smith,- - -,-0.1,4.6,-0.6,1.6,2.0,27.0
+Will Smith,- - -,-0.1,4.6,-0.6,1.6,2.0,33.0
+Will Smith,- - -,-0.1,4.6,-0.6,1.4,2.0,27.0
+Will Smith,- - -,-0.1,4.6,-0.6,1.4,2.0,33.0
+Will Smith,- - -,-0.1,0.4,1.3,1.6,2.0,27.0
+Will Smith,- - -,-0.1,0.4,1.3,1.6,2.0,33.0
+Will Smith,- - -,-0.1,0.4,1.3,1.4,2.0,27.0
+Will Smith,- - -,-0.1,0.4,1.3,1.4,2.0,33.0
+Will Smith,- - -,-0.1,0.4,-0.6,1.6,2.0,27.0
+Will Smith,- - -,-0.1,0.4,-0.6,1.6,2.0,33.0
+Will Smith,- - -,-0.1,0.4,-0.6,1.4,2.0,27.0
+Will Smith,- - -,-0.1,0.4,-0.6,1.4,2.0,33.0
+Jake Lamb,- - -,-0.1,0.0,-0.2,0.1,0.2,32.0
+Ronald Guzmán,NYY,-0.1,-0.2,0.3,-0.9,0.4,
+Adam Engel,CHW,-0.1,1.5,0.9,0.9,1.3,31.0
+Andrew Kittredge,TBR,-0.2,1.5,0.2,0.6,-0.4,33.0
+Miguel Andújar,- - -,-0.2,-0.2,-0.4,-1.0,3.7,
+Wilmer Difo,ARI,-0.2,0.0,-0.2,0.0,0.2,30.0
+Sam Howard,PIT,-0.2,-0.1,0.1,-0.2,0.0,
+Bradley Zimmer,- - -,-0.2,1.5,0.0,-0.3,0.4,30.0
+Brent Suter,MIL,-0.2,0.5,0.7,0.5,1.3,33.0
+Randal Grichuk,COL,-0.2,0.1,0.9,1.0,2.7,31.0
+Diego Castillo,PIT,-0.2,0.7,0.0,1.0,1.1,29.0
+Franchy Cordero,BOS,-0.2,-0.8,0.1,0.1,0.4,28.0
+Zack Britton,NYY,-0.2,-0.2,0.5,0.8,0.1,
+Chase De Jong,PIT,-0.2,-0.3,0.0,-0.1,0.1,29.0
+Victor Reyes,DET,-0.2,0.3,0.6,1.4,-1.4,
+Jhoulys Chacín,COL,-0.2,0.1,-0.1,-0.1,2.5,
+Austin Meadows,DET,-0.2,1.6,-0.1,4.5,0.4,27.0
+Aroldis Chapman,NYY,-0.2,0.6,0.3,2.1,1.8,35.0
+Tucker Barnhart,DET,-0.2,1.2,0.7,0.6,-0.4,32.0
+Guillermo Heredia,ATL,-0.2,1.0,0.2,0.6,1.0,
+Didi Gregorius,PHI,-0.3,-0.8,0.8,-0.4,3.4,
+Zack Littell,SFG,-0.3,0.3,-0.4,0.6,-0.2,27.0
+J.B. Wendelken,ARI,-0.3,0.2,0.4,0.6,0.2,
+Jacob Barnes,- - -,-0.3,-0.3,0.4,-0.5,0.3,32.0
+Chasen Shreve,NYM,-0.3,-0.1,0.1,0.1,-0.5,32.0
+Steve Cishek,WSN,-0.3,0.9,-0.2,0.2,0.8,
+Niko Goodrum,HOU,-0.3,0.7,0.6,2.7,1.8,31.0
+Robbie Grossman,- - -,-0.3,2.3,1.6,0.8,0.8,33.0
+Keynan Middleton,ARI,-0.3,0.0,0.0,0.1,0.2,29.0
+Ryan O'Hearn,KCR,-0.3,-0.7,-0.4,-1.1,1.1,29.0
+Willie Calhoun,- - -,-0.3,-0.6,-0.9,0.2,-0.7,28.0
+Dallas Keuchel,- - -,-0.3,0.6,1.8,0.8,3.2,
+Tommy Milone,SEA,-0.3,0.1,0.5,0.0,0.2,36.0
+Jeurys Familia,- - -,-0.3,0.0,-0.1,-0.2,1.8,33.0
+Andrelton Simmons,CHC,-0.3,0.9,0.4,1.9,4.5,
+Javy Guerra,- - -,-0.3,0.1,0.1,0.3,0.0,27.0
+Javy Guerra,- - -,-0.3,0.1,0.1,0.3,-0.3,27.0
+Javy Guerra,- - -,-0.3,0.1,0.1,-0.2,0.0,27.0
+Javy Guerra,- - -,-0.3,0.1,0.1,-0.2,-0.3,27.0
+Javy Guerra,- - -,-0.3,0.1,0.0,0.3,0.0,27.0
+Javy Guerra,- - -,-0.3,0.1,0.0,0.3,-0.3,27.0
+Javy Guerra,- - -,-0.3,0.1,0.0,-0.2,0.0,27.0
+Javy Guerra,- - -,-0.3,0.1,0.0,-0.2,-0.3,27.0
+Javy Guerra,- - -,-0.3,-0.3,0.1,0.3,0.0,27.0
+Javy Guerra,- - -,-0.3,-0.3,0.1,0.3,-0.3,27.0
+Javy Guerra,- - -,-0.3,-0.3,0.1,-0.2,0.0,27.0
+Javy Guerra,- - -,-0.3,-0.3,0.1,-0.2,-0.3,27.0
+Javy Guerra,- - -,-0.3,-0.3,0.0,0.3,0.0,27.0
+Javy Guerra,- - -,-0.3,-0.3,0.0,0.3,-0.3,27.0
+Javy Guerra,- - -,-0.3,-0.3,0.0,-0.2,0.0,27.0
+Javy Guerra,- - -,-0.3,-0.3,0.0,-0.2,-0.3,27.0
+Sandy Leon,- - -,-0.3,-0.8,-0.1,-0.2,0.4,34.0
+T.J. McFarland,STL,-0.3,0.3,-0.4,-0.1,0.2,33.0
+Greg Holland,TEX,-0.4,-0.2,0.8,-0.2,0.4,
+Jason Heyward,CHC,-0.4,0.2,1.5,2.2,2.7,33.0
+Harold Castro,DET,-0.4,-0.6,0.4,-0.4,0.0,29.0
+Jesús Aguilar,- - -,-0.4,1.4,0.1,0.0,3.1,
+Yasmani Grandal,CHW,-0.4,3.6,1.6,5.3,4.6,34.0
+Michael Hermosillo,CHC,-0.4,0.1,0.0,0.2,-0.1,28.0
+Andrew Knapp,- - -,-0.4,-1.1,0.5,0.2,-0.4,31.0
+Craig Stammen,SDP,-0.4,0.8,0.3,0.4,2.2,39.0
+Jose Alvarez,SFG,-0.4,1.1,0.1,0.4,1.2,22.0
+Daniel Norris,- - -,-0.4,-0.1,0.6,1.8,0.3,
+Magneuris Sierra,LAA,-0.4,-0.2,0.3,0.4,-1.1,26.0
+Steven Duggar,- - -,-0.4,1.9,-0.2,-0.5,0.5,29.0
+Mike Minor,CIN,-0.4,2.2,0.8,4.0,2.6,
+Bryan Shaw,CLE,-0.4,0.0,-0.2,-0.2,-0.3,35.0
+Garrett Hampson,COL,-0.4,0.3,0.3,0.1,0.2,28.0
+Tyler Duffey,MIN,-0.5,0.7,0.7,1.2,-0.3,32.0
+Justin Upton,SEA,-0.5,0.1,0.1,-0.2,2.6,
+Mike Moustakas,CIN,-0.5,-0.5,0.5,2.8,2.2,34.0
+Stephen Piscotty,OAK,-0.5,-0.5,0.2,0.6,2.8,32.0
+Ehire Adrianza,- - -,-0.5,0.6,0.2,0.7,1.1,33.0
+Michael Perez,- - -,-0.5,-0.9,-0.5,0.0,-0.2,30.0
+Lorenzo Cain,MIL,-0.5,1.5,0.2,1.3,6.0,
+Kevin Plawecki,- - -,-0.5,0.5,0.3,0.3,0.0,32.0
+Juan Lagares,LAA,-0.5,-0.3,0.0,-0.3,0.6,
+Willians Astudillo,MIA,-0.6,-0.8,0.1,-0.1,0.8,
+Marcell Ozuna,ATL,-0.6,-0.3,2.5,2.0,2.7,32.0
+Alec Mills,CHC,-0.6,0.7,0.1,0.4,0.5,
+Austin Hedges,CLE,-0.6,0.1,-0.1,1.5,2.3,30.0
+Avisaíl García,MIA,-0.6,2.8,0.5,2.1,0.7,
+Tyler Wade,LAA,-0.6,0.6,0.5,0.4,-0.3,28.0
+Hanser Alberto,LAD,-0.6,0.5,0.4,2.1,-0.1,30.0
+Charlie Culberson,TEX,-0.6,0.9,-0.1,0.1,1.1,33.0
+Ryan Borucki,- - -,-0.6,-0.3,0.2,-0.2,1.7,28.0
+Jacob Stallings,MIA,-0.6,2.5,1.0,1.3,-0.2,33.0
+Jason Castro,HOU,-0.6,1.0,0.3,1.7,0.0,
+Billy McKinney,OAK,-0.6,0.0,0.1,-0.4,0.1,
+Travis Shaw,BOS,-0.6,-0.4,0.0,-1.2,3.8,
+Jake Diekman,- - -,-0.6,-0.1,0.5,1.0,0.6,36.0
+Noé Ramirez,ARI,-0.6,0.5,0.1,1.0,-0.1,
+Chris Owings,BAL,-0.6,0.5,0.0,-1.3,-1.0,31.0
+Hansel Robles,BOS,-0.7,0.1,-0.1,1.9,-0.1,
+Heath Hembree,- - -,-0.7,0.3,-0.8,0.1,0.1,34.0
+Phil Gosselin,- - -,-0.7,-0.1,-0.1,-0.2,-0.1,
+Kolby Allard,TEX,-0.7,-0.2,0.3,1.0,-0.1,25.0
+Nick Castellanos,PHI,-0.7,3.5,0.3,2.5,2.2,31.0
+Sean Newcomb,- - -,-0.7,0.3,-0.2,0.3,1.6,29.0
+Caleb Smith,ARI,-0.8,0.0,-0.1,1.4,1.2,
+Sergio Romo,- - -,-0.8,0.2,0.1,1.0,0.5,
+Tommy La Stella,SFG,-0.8,0.5,1.1,1.7,0.0,34.0
+Maikel Franco,WSN,-0.8,-0.7,1.1,-0.8,1.3,
+Kurt Suzuki,LAA,-0.8,-0.4,0.0,0.6,0.9,
+Nelson Cruz,WSN,-0.8,2.0,2.0,4.3,2.5,42.0
+Mike Mayers,LAA,-0.9,0.8,1.0,-0.1,0.3,31.0
+Joey Votto,CIN,-0.9,3.6,0.4,0.6,2.9,39.0
+Miguel Sanó,MIN,-0.9,0.9,0.8,2.8,0.1,
+Ian Kennedy,ARI,-0.9,0.0,-0.6,1.5,1.1,38.0
+Yuli Gurriel,HOU,-0.9,3.3,0.0,3.9,1.7,38.0
+Elieser Hernandez,MIA,-0.9,-0.1,0.5,0.0,-0.6,27.0
+Hunter Dozier,KCR,-1.1,-1.0,0.7,2.8,-1.3,31.0
+Leury Garcia,CHW,-1.1,1.8,0.5,1.7,0.7,32.0
+Kole Calhoun,TEX,-1.1,0.0,1.5,2.3,-0.1,35.0
+Austin Romine,- - -,-1.1,-0.4,-0.5,0.8,1.3,34.0
+Franmil Reyes,- - -,-1.1,1.2,0.7,1.1,1.0,27.0
+Eddie Rosario,ATL,-1.1,0.7,0.9,0.9,4.0,31.0
+Brad Miller,TEX,-1.1,0.6,0.8,1.2,-0.1,33.0
+Jonathan Villar,- - -,-1.3,2.5,-1.1,3.9,1.9,
+Elias Díaz,COL,-1.4,1.6,-0.1,-1.5,1.8,
+Miguel Cabrera,DET,-1.5,-0.6,0.3,-0.5,0.8,39.0
+Robinson Chirinos,BAL,-1.6,0.5,-0.8,2.2,0.3,
